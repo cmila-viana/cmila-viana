@@ -1,8 +1,6 @@
 ## 👩🏽‍💻 Camila Viana
 
-- 💻 Estudante de Desenvolvimento de Sistemas
-- 💜 Futura Front-end
-
+Desenvolvedora em formação pelo SENAI, focada em Front-end. Buscando evoluir diariamente através de projetos práticos e aprendizado contínuo. 💻✨
 
 ---
 
