@@ -1,10 +1,9 @@
-## Bem-vindo(a) ao meu cantinho Dev! 💜
 
+# Bem-vindo(a) ao meu cantinho Dev! 💜🤗
 Sou desenvolvedora em formação pelo SENAI, com foco em Front-end. Apaixonada por tudo que envolve criatividade! Busco evoluir diariamente através de projetos práticos e aprendizado contínuo. 💻✨
 
----
-
-### 🤖 Linguagens e Tecnologias:
+## 
+### Linguagens e Tecnologias:
 
 <img 
     align="left" 
@@ -73,15 +72,13 @@ Sou desenvolvedora em formação pelo SENAI, com foco em Front-end. Apaixonada p
 <br/>
 <br/>
 
----
-
-### 🤗 Conecte-se comigo:
+## 
+### Conecte-se comigo:
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Perfil&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=A9A9A9)](https://www.linkedin.com/in/camila-viana-27582022a/)
 
----
-
-### 📊 Estatísticas
+## 
+### Estatísticas:
 
 <p>
   <img 
@@ -102,6 +99,8 @@ Sou desenvolvedora em formação pelo SENAI, com foco em Front-end. Apaixonada p
 </p>
 </p>
 
+<br><br><br><br><br><br><br><br>
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heloohp/heloohp/output/github-contribution-grid-snake-dark.svg">
