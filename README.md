@@ -105,5 +105,6 @@ Sou desenvolvedora em formação pelo SENAI, com foco em Front-end. Apaixonada p
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmila-viana/cmila-viana/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cmila-viana/cmila-viana/output/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cmila-viana/cmila-viana/output/snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/cmila-viana/cmila-viana/output/snake.svg">
 </picture>
+
