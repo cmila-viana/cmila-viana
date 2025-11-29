@@ -53,6 +53,16 @@ Sou desenvolvedora em formação pelo SENAI, com foco em Front-end. Apaixonada p
 
 <img
     align="left" 
+    alt="Visual Studio Code"
+    title="Visual Studio Code" 
+    width="30px" 
+    style="padding-right: 5px;"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"    
+/>
+          
+
+<img
+    align="left" 
     alt="Git"
     title="Git" 
     width="35px" 
