@@ -1,6 +1,6 @@
-## 👩🏽‍💻 Camila Viana
+## Bem-vindo(a) ao meu cantinho Dev! 💜
 
-Desenvolvedora em formação pelo SENAI, focada em Front-end. Buscando evoluir diariamente através de projetos práticos e aprendizado contínuo. 💻✨
+Sou desenvolvedora em formação pelo SENAI, com foco em Front-end. Apaixonada por tudo que envolve criatividade! Busco evoluir diariamente através de projetos práticos e aprendizado contínuo. 💻✨
 
 ---
 
@@ -75,6 +75,12 @@ Desenvolvedora em formação pelo SENAI, focada em Front-end. Buscando evoluir d
 
 ---
 
+### 🤗 Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Perfil&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=A9A9A9)](https://www.linkedin.com/in/camila-viana-27582022a/)
+
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -96,3 +102,8 @@ Desenvolvedora em formação pelo SENAI, focada em Front-end. Buscando evoluir d
 </p>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmila-viana/cmila-viana/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cmila-viana/cmila-viana/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cmila-viana/cmila-viana/output/github-contribution-grid-snake.svg">
+</picture>
