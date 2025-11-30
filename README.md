@@ -88,29 +88,11 @@ Sou desenvolvedora em formação pelo SENAI, com foco em Front-end. Apaixonada p
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Perfil&style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=A9A9A9)](https://www.linkedin.com/in/camila-viana-27582022a/)
 
 ## 
-### Estatísticas:
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=cmila-viana&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
-/>
-
-
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmila-viana&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" 
-/>
-
+  
+</p>
 </p>
 </p>
 
-<br><br><br><br><br><br><br><br>
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cmila-viana/cmila-viana/output/snake-dark.svg">
